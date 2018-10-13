@@ -1,0 +1,41 @@
+.diamond {
+    width: 70px;
+    height: 70px;
+    background:#00ff00;
+    margin: 0;
+    padding: 0;
+ }
+ 
+ #red {  color: rgb(199, 178, 178);
+ background-color:#d9534f;
+ border-color:#d9534f;
+ 
+ }
+ 
+ #yellow { color: rgb(199, 178, 178);
+ background-color:#ffff00;
+ border-color: #ffff00;
+ }
+ 
+ #green { color: rgb(199, 178, 178);
+ background-color: #5cb85c;
+ border-color: #5cb85c;
+ }
+ 
+ #blue { color: rgb(199, 178, 178,);
+ background-color: #0000ff;
+ border-color: #0000ff;
+ }
+ 
+ body {background: url("../images/sun_crystal_collector_by_suiatsu-d79rfoa.jpg") no-repeat center center fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;}
+ 
+ 
+
+
+
+
+
